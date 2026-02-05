@@ -24,6 +24,7 @@ Além do conjunto de dados consolidado no Desafio 1 (Criminalidade 2019 - 2024, 
 3.  **Dados do Desafio 1 (Mantidos):**
     * **Educação Básica e Superior (INEP):** Matrículas, ingressantes e concluintes.
     * **População, IDH e PIB (IBGE/PNUD):** Para normalização de taxas e indicador de desenvolvimento.
+    * 
 
 ## Metodologia e Principais Passos do Notebook
 
@@ -70,6 +71,12 @@ O notebook `Desafio_2_Final.ipynb` estrutura o pipeline de Ciência de Dados da 
     `pip install scikit-learn folium`
 3.  Mantenha a estrutura de pastas: o notebook na raiz e os arquivos `.csv` (tanto os antigos quanto os novos da série temporal) dentro da pasta `dados/` (ou ajuste o caminho no notebook conforme necessário).
 4.  Execute o notebook `Desafio_2_Final.ipynb`. Ao final, um arquivo `mapa_mg.html` será gerado com a visualização geoespacial.
+5.  Base de Dados
+Devido ao tamanho dos arquivos (excedendo o limite do GitHub), a pasta `dados/` completa está hospedada externamente.
+
+**[📥 CLIQUE AQUI PARA BAIXAR OS DADOS (Google Drive)](https://drive.google.com/file/d/1gUcgHZjPmnpjmyzv0D2yhL7nziZ_xulE/view?usp=sharing)**
+
+**Instrução:** Baixe o arquivo, descompacte e coloque a pasta `dados` na raiz deste projeto para que os notebooks funcionem corretamente.
 
 ---
 
