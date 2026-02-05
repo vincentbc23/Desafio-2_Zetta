@@ -74,7 +74,7 @@ O notebook `Desafio_2_Final.ipynb` estrutura o pipeline de Ciência de Dados da 
 5.  Base de Dados
 Devido ao tamanho dos arquivos (excedendo o limite do GitHub), a pasta `dados/` completa está hospedada externamente.
 
-**[📥 CLIQUE AQUI PARA BAIXAR OS DADOS (Google Drive)](https://drive.google.com/file/d/1gUcgHZjPmnpjmyzv0D2yhL7nziZ_xulE/view?usp=sharing)**
+**[CLIQUE AQUI PARA BAIXAR OS DADOS (Google Drive)](https://drive.google.com/file/d/1gUcgHZjPmnpjmyzv0D2yhL7nziZ_xulE/view?usp=sharing)**
 
 **Instrução:** Baixe o arquivo, descompacte e coloque a pasta `dados` na raiz deste projeto para que os notebooks funcionem corretamente.
 
